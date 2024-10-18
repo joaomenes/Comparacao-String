@@ -10,7 +10,7 @@ fixed_tests_True = (
     ("fails", "ails"),
 )
 
-# Testes que para falharem
+# Testes para falharem
 fixed_tests_False = (
     ("sumo", "omo"),
     ("samurai", "ra"),
